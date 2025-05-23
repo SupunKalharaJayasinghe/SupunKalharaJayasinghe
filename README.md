@@ -12,6 +12,11 @@ About Me<br>✨ Name: Supun Kalhara Jayasinghe<br>🎓 Degree: BSc (Hons) in Inf
 ![](https://nirzak-streak-stats.vercel.app/?user=SupunKalharaJayasinghe&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunKalharaJayasinghe&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<img src="https://raw.githubusercontent.com/SupunKalharaJayasinghe/SupunKalharaJayasinghe/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SupunKalharaJayasinghe&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
