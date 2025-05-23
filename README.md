@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br>✨ Name: Supun Kalhara Jayasinghe<br>🎓 Degree: BSc (Hons) in Information Technology - Software Engineering<br>🏫 Institution: Sri Lanka Institute of Information Technology (SLIIT)<br><br>I am currently pursuing a Bachelor of Science (Honours) degree in Information Technology, specializing in Software Engineering. My academic journey focuses on equipping myself with the necessary skills and knowledge in software development and IT systems.
+About Me<br>✨ Name: Supun Kalhara Jayasinghe<br>🎓 Degree: BSc (Hons) in Information Technology - Software Engineering<br>🏫 Institution: Sri Lanka Institute of Information Technology <a href="https://www.sliit.lk/" target="_blank">(SLIIT)</a><br><br>I am currently pursuing a Bachelor of Science (Honours) degree in Information Technology, specializing in Software Engineering. My academic journey focuses on equipping myself with the necessary skills and knowledge in software development and IT systems.
 
 
 ## 🌐 Socials:
