@@ -1,11 +1,11 @@
 # 👋 Hi...
--Name: Supun Kalhara Jayasinghe<br>-Role: Software Engineering Student<br>-Institute: Sri Lanka Institute of Information Technology (SLIIT)<br>-Degree: BSc (Hons) in Information Technology – Software Engineering<br><br>🚀 Interests<br><br>-Full-stack web development<br>-System design & architecture<br>-Clean code, testing & DevOps best practices<br><br>🎯 Goals<br><br>-Build reliable, scalable, and impactful software systems<br>-Continuously learn and grow as a developer
+-Name: Supun Kalhara Jayasinghe<br>-Role: Software Engineering Student<br>-Institute: <a href="https://www.sliit.lk/" target="_blank">Sri Lanka Institute of Information Technology (SLIIT)</a><br>-Degree: BSc (Hons) in Information Technology – Software Engineering<br><br><b>🚀 Interests</b><br><br>-Full-stack web development<br>-System design & architecture<br>-Clean code, testing & DevOps best practices<br><br><b>🎯 Goals</b><br><br>-Build reliable, scalable, and impactful software systems<br>-Continuously learn and grow as a developer
 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@y) 
 
-# Tech Stack:
+## Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img width="12" />
@@ -48,7 +48,7 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />
 </div>
 
-# Stats:
+## Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SupunKalharaJayasinghe&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SupunKalharaJayasinghe&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunKalharaJayasinghe&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
