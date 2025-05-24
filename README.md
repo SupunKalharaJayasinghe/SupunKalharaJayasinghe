@@ -8,18 +8,7 @@
 
 ###
 
-<p align="left">🎓 Software Engineering Undergraduate at SLIIT (BSc Hons in IT – Software Engineering)<br><br>💡
-  Passionate about mastering software development, systems design, and modern technologies<br><br>
-
-🛠️ Currently Exploring:
-
-<ul>
-  <li>Full-stack web development</li>
-  <li>System architecture and scalable design</li>
-  <li>Clean code, testing, CI/CD, and DevOps</li>
-</ul>
-  
-  📚 Committed to continuous learning and growth<br><br>🤝 Open to collaboration and knowledge sharing</p>
+<p align="left">🎓 Software Engineering Undergraduate at SLIIT (BSc Hons in IT – Software Engineering)<br><br>💡 Passionate about mastering software development, systems design, and modern technologies<br><br>🛠️ Currently Exploring:<br><br>Full-stack web development (frontend + backend)<br><br>System architecture and scalable design<br><br>Clean code, testing, CI/CD, and DevOps<br><br>📚 Committed to continuous learning and growth<br><br>🤝 Open to collaboration and knowledge sharing</p>
 
 ###
 
@@ -116,3 +105,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=SupunKalharaJayasinghe&theme=kimbie_dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
