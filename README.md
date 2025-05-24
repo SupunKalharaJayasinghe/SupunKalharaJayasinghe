@@ -1,5 +1,5 @@
 # 👋 Hi...
--Name: Supun Kalhara Jayasinghe<br>-Role: Software Engineering Student<br>-Institute: <a href="https://www.sliit.lk/" target="_blank">Sri Lanka Institute of Information Technology (SLIIT)</a><br>-Degree: BSc (Hons) in Information Technology – Software Engineering<br><br><b>🚀 Interests</b><br><br>-Full-stack web development<br>-System design & architecture<br>-Clean code, testing & DevOps best practices<br><br><b>🎯 Goals</b><br><br>-Build reliable, scalable, and impactful software systems<br>-Continuously learn and grow as a developer
+-Name: Supun Kalhara Jayasinghe<br>-Role: Software Engineering Student<br>-Institute: <a href="https://www.sliit.lk/" target="_blank">Sri Lanka Institute of Information Technology (SLIIT)</a><br>-Degree: BSc (Hons) in Information Technology – Software Engineering<br><br><b>🚀 Interests</b><br><br>-Full-stack development<br>-System design & architecture<br>-Clean code, testing & DevOps best practices<br><br><b>🎯 Goals</b><br><br>-Build reliable, scalable, and impactful software systems<br>-Continuously learn and grow as a developer
 
 <br/>
 <div align="center">
