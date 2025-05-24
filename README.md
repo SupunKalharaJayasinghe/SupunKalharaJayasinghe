@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SupunKalharaJayasinghe.SupunKalharaJayasinghe&left_color=grey&right_color=darkred"  />
 </div>
 <br/>
-###
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@y) 
@@ -55,12 +55,20 @@
 </div>
 
 ## Stats:
-![](https://github-readme-stats.vercel.app/api?username=SupunKalharaJayasinghe&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SupunKalharaJayasinghe&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunKalharaJayasinghe&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SupunKalharaJayasinghe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1&custom_title=Current%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SupunKalharaJayasinghe&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SupunKalharaJayasinghe&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=SupunKalharaJayasinghe&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=SupunKalharaJayasinghe&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SupunKalharaJayasinghe&icon=0&color=0)](https://visitcount.itsvg.in)
