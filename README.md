@@ -1,12 +1,12 @@
 <h1>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align:middle;" /> Hi...
 </h1>
--Name: Supun Kalhara Jayasinghe<br>-Role: Software Engineering Student<br>-Institute: <a href="https://www.sliit.lk/" target="_blank">Sri Lanka Institute of Information Technology (SLIIT)</a><br>-Degree: BSc (Hons) in Information Technology – Software Engineering<br><br><b>🚀 Interests</b><br><br>-Full-stack development<br>-System design & architecture<br>-Clean code, testing & DevOps best practices<br><br><b>🎯 Goals</b><br><br>-Build reliable, scalable, and impactful software systems<br>-Continuously learn and grow as a developer
 
-<img align="right" height="200" 
-     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBieXA4eDJ5M3kzaDU0Z2llaDdoNW9lY3BteGdvb2VhdzVheXp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sLlugZblgDIknCVtH/giphy.gif"  
-     style="position: relative; top: -20px; z-index: 999;" />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBieXA4eDJ5M3kzaDU0Z2llaDdoNW9lY3BteGdvb2VhdzVheXp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sLlugZblgDIknCVtH/giphy.gif"  />
 
+###
+
+<p align="left">-Name: Supun Kalhara Jayasinghe<br>-Role: Software Engineering Student<br>-Institute: Sri Lanka Institute of Information Technology (SLIIT)<br>-Degree: BSc (Hons) in Information Technology – Software Engineering<br><br>🚀 Interests<br><br>-Full-stack development<br>-System design & architecture<br>-Clean code, testing & DevOps best practices<br><br>🎯 Goals<br><br>-Build reliable, scalable, and impactful software systems<br>-Continuously learn and grow as a developer</p>
 
 ###
 
