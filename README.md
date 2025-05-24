@@ -8,8 +8,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🔭 Currently exploring:</h3>
 
 ###
