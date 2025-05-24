@@ -107,6 +107,7 @@
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupunKalharaJayasinghe&radius=16&theme=high-contrast&area=true&order=5&hide_title=true&hide_border=false" height="300" alt="activity-graph graph" />
 </div>
+</br>
 <div>
   <img src="https://github-profile-trophy.vercel.app?username=SupunKalharaJayasinghe&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
