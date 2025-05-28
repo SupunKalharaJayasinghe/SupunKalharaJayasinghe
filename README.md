@@ -1,8 +1,8 @@
 <br clear="both">
 
-<h2 align="left">
+<h1 align="left">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align:middle;" /> Hi...
-</h2>
+</h1>
 
 ###
 
