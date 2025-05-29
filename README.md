@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<div align="justify">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
