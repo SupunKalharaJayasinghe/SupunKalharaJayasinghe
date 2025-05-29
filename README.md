@@ -113,7 +113,7 @@
 
 <br clear="both">
 
-<p align="center"><i>“Software should not only work — it should scale, inspire, and last.”</i>i</p>
+<p align="center"><i>“Software should not only work — it should scale, inspire, and last.”</i></p>
 
 ###
 
