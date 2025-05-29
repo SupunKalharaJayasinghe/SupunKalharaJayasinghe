@@ -2,30 +2,29 @@
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align:middle;" />  Hi...</h2>
 
+<img align="right" height="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdsb3ltemNicTVtbHRxeDVldXlsZW5vNnBuN3VvZ3R4NTJpMWRoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcdgfLqqYDXS0Zq/giphy.gif"  />
+
 ###
 
-<p align="left">
-  <strong>Name:</strong> Supun Kalhara Jayasinghe<br>
-  <strong>Role:</strong> Software Engineering Student<br>
-  <strong>Institute:</strong> Sri Lanka Institute of Information Technology (SLIIT)<br>
-  <strong>Degree:</strong> BSc (Hons) in Information Technology – Software Engineering
-</p>
+<p align="left">- Name: Supun Kalhara Jayasinghe<br>- Role: Software Engineering Student<br>- Institute: Sri Lanka Institute of Information Technology (SLIIT)<br>- Degree: BSc (Hons) in Information Technology – Software Engineering</p>
+
+###
 
 <h3 align="left">Tech Interests</h3>
 
-<p align="left">
-  - Full-Stack Web & System Development<br>
-  - Scalable System Design & Software Architecture<br>
-  - Clean Code Practices<br>
-  - UI/UX Design Principles & Frontend Performance Optimization
-</p>
+###
+
+<p align="left">- Full-Stack Web & System Development<br>- Scalable System Design & Software Architecture<br>- Clean Code Practices.<br>- UI/UX Design Principles & Frontend Performance Optimization</p>
+
+###
 
 <h3 align="left">Goals</h3>
 
-<p align="left">
-  - Build reliable, scalable, and impactful software systems<br>
-  - Continuously learn and grow as a developer
-</p>
+###
+
+<p align="left">- Build reliable, scalable, and impactful software systems<br>- Continuously learn and grow as a developer</p>
+
+###
 
 <h3 align="left">Socials:</h3>
 
