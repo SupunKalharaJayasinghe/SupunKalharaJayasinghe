@@ -26,7 +26,6 @@
 
 <p align="left">- Build reliable, scalable, and impactful software systems<br>- Continuously learn and grow as a developer</p>
 
-<hr>
 ###
 
 <h3 align="left">Socials:</h3>
