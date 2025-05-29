@@ -1,4 +1,4 @@
-<h3 align="center">Supun Kalhara Jayasinghe</h3>
+<h1 align="center">Supun Kalhara Jayasinghe</h1>
 
 ###
   - **Software Engineering Undergraduate**
@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="justify">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
