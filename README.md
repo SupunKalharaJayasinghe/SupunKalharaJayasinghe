@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">- Name: Supun Kalhara Jayasinghe<br>- Role: Software Engineering Student<br>- Institute: Sri Lanka Institute of Information Technology (SLIIT)<br>- Degree: BSc (Hons) in Information Technology – Software Engineering</p>
+<p align="left">- <strong>Name: </strong>Supun Kalhara Jayasinghe<br>- <strong>Role:</strong> Software Engineering Student<br>- <strong>Institute:</strong> Sri Lanka Institute of Information Technology <a href = "https://www.sliit.lk/">(SLIIT)</a><br>- <strong>Degree:</strong> BSc (Hons) in Information Technology – Software Engineering</p>
 
 ###
 
-<h3 align="left">Tech Interests</h3>
+<h3 align="left">🧐 Tech Interests</h3>
 
 ###
 
@@ -20,12 +20,13 @@
 
 ###
 
-<h3 align="left">Goals</h3>
+<h3 align="left">🎯 Goals</h3>
 
 ###
 
 <p align="left">- Build reliable, scalable, and impactful software systems<br>- Continuously learn and grow as a developer</p>
 
+<hr>
 ###
 
 <h3 align="left">Socials:</h3>
