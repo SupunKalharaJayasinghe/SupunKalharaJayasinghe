@@ -6,7 +6,7 @@
 ###
   - **Software Engineering Undergraduate**
   - **BSc (Hons) in Information Technology – Software Engineering**
-  - **Sri Lanka Institute of Information Technology (SLIIT)**
+  - **Sri Lanka Institute of Information Technology <a href="https://www.sliit.lk/">(SLIIT)</a>**
 ###
 
 <h3 align="left">About Me</h3>
