@@ -21,7 +21,7 @@
 
 ###
 
-- **Full-Stack Web Application Development**
+- **Full-Stack Developmen**
 - **POS Systems**
 - **Portfolio, Blog, and Business Websites**
 - **E-Commerce Solutions**
