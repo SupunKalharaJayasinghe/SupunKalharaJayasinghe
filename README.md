@@ -1,160 +1,105 @@
-<h1 align="center">
-  Hello, I'm Supun Kalhara  
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand">
-</h1>
+<!-- Animated Banner with Dark/Light Mode Support -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SupunKalharaJayasinghe/SupunKalharaJayasinghe/output/github-dark-banner.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SupunKalharaJayasinghe/SupunKalharaJayasinghe/output/github-light-banner.gif" />
+  <img alt="Supun Kalhara Hero Banner" src="https://raw.githubusercontent.com/SupunKalharaJayasinghe/SupunKalharaJayasinghe/output/github-dark-banner.gif" />
+</picture>
 
-###
-  - **Software Engineering Undergraduate**
-  - **BSc (Hons) in Information Technology – Software Engineering**
-  - **Sri Lanka Institute of Information Technology <a href="https://www.sliit.lk/">(SLIIT)</a>**
-###
+<br>
 
-<h3 align="left">About Me</h3>
+# 👋 Hi, I'm Supun Kalhara
 
-###
+🇱🇰 Full-Stack Developer from Sri Lanka  
+💻 Building impactful web applications & smart solutions
 
-- **I am a results-driven software engineering student with a strong foundation in designing and developing full-stack applications, POS systems, and scalable software solutions. My work emphasizes clean code, user-focused design, and system efficiency. I combine technical expertise with a continuous learning mindset to deliver robust and impactful solutions across multiple domains.**
+---
 
-###
+### 👨‍💻 About Me
 
-<h3 align="left">What I Do</h3>
+Passionate about crafting efficient, user-friendly web applications. I enjoy tackling challenges with clean, maintainable code, integrating AI technologies, and automating workflows to boost productivity.
 
-###
+Also skilled in developing custom WordPress websites tailored to diverse client needs.
 
-- **Full-Stack Developmen**
-- **POS Systems**
-- **Portfolio, Blog, and Business Websites**
-- **E-Commerce Solutions**
-- **System Software Development**
-- **UI/UX Design**
+Technology constantly evolves, and I embrace continuous learning to stay ahead and deliver meaningful, modern solutions.
 
-###
+---
 
-<br clear="both">
+### 🚀 Core Skills
 
-<h3 align="left">Technical Stack</h3>
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
 
-###
+---
 
-<br clear="both">
+### 🌱 What I’m Exploring
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-</div>
+- AI-powered tools & large language models  
+- Scalable, maintainable backend architectures  
+- Modern frameworks & best practices  
 
-###
+---
 
-<br clear="both">
+### 📫 Let’s Connect
 
-<h3 align="left">Goals</h3>
-
-###
-
-- **Build systems that are scalable, maintainable, and aligned with real-world user needs**
-- **Apply strong architectural principles and design patterns in every project**
-- **Continue expanding technical capabilities through hands-on experience and learning**
-- **Contribute to open-source or team-based software projects with real impact**
-
-###
-
-<br clear="both">
-
-<h3 align="left">Let's Connect</h3>
-
-###
-
-<div align="left">
-  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
+<p align="left">
+  <a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
-  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="20" alt="telegram logo"  />
+  <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="20" alt="whatsapp logo"  />
+  <a href="mailto:supunwebdev@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
-
-<p align="center"><i>“Software should not only work — it should scale, inspire, and last.”</i></p>
-
-###
-
-<br clear="both">
+### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SupunKalharaJayasinghe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SupunKalharaJayasinghe&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SupunKalharaJayasinghe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="155" alt="languages graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SupunKalharaJayasinghe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=SupunKalharaJayasinghe&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SupunKalharaJayasinghe&layout=compact&langs_count=5&theme=github_dark&hide_border=false" height="155" alt="Most Used Languages" />
+
 </div>
 
-###
+---
 
-<br clear="both">
-
-<h2 align="center">Trophy</h2>
-
-###
+### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SupunKalharaJayasinghe&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=SupunKalharaJayasinghe&theme=matrix&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="Trophy" />
+
 </div>
 
-###
+---
+
+### 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupunKalharaJayasinghe&radius=16&theme=github-dark&area=true&order=5" height="302" alt="activity-graph graph"  />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupunKalharaJayasinghe&radius=16&theme=github-dark&area=true" height="302" alt="GitHub Activity" />
+
 </div>
 
-###
+---
+
+> “Technology is a journey — I’m here to make it meaningful.”
+
+Thanks for stopping by! 🚀
