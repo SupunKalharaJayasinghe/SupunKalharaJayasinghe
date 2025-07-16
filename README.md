@@ -5,8 +5,3 @@ I’m a full-stack developer from Sri Lanka who loves building web applications 
 Alongside, I enjoy creating custom WordPress websites that fit the unique needs of each client.
 
 Right now, I’m diving into AI integrations, exploring backend architectures, and automating tasks to make development smarter and more efficient.
-
----
-
-### Curious to see what I’ve built?  
-[Check out my portfolio here](https://your-portfolio-link.com)
