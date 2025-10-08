@@ -6,6 +6,9 @@ I’m especially skilled in **prompt engineering**, creative problem-solving, an
 
 ---
 
+</br>
+
+
 ### 🌀 Language Universe
 
 <p align="center">
@@ -17,6 +20,8 @@ I’m especially skilled in **prompt engineering**, creative problem-solving, an
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SupunKalharaJayasinghe&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SupunKalharaJayasinghe&theme=github_dark&utcOffset=5.5" />
 </p>
+
+</br>
 
 ### 🧬 Skill DNA
 
@@ -63,4 +68,17 @@ I’m especially skilled in **prompt engineering**, creative problem-solving, an
   <img src="https://img.shields.io/badge/Prompt%20Engineering-12100E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Hosting-Vercel%20%7C%20Netlify%20%7C%20cPanel-000000?style=for-the-badge" />
+</p>
+
+</br></br>
+
+<p align="center">
+  <em>“I’m not just learning to code — I’m learning to <b>build things that make ideas real</b>.”</em>
+</p>
+
+---
+
+<p align="center">
+  <b>🛠️ Crafted with ❤️ by <a href="#">Supun Kalhara Jayasinghe</a></b><br/>
+  <sub>✨ Powered by creativity, curiosity, and caffeine ☕</sub>
 </p>
