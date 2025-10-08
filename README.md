@@ -70,7 +70,7 @@ I’m especially skilled in **prompt engineering**, creative problem-solving, an
   <img src="https://img.shields.io/badge/Web%20Hosting-Vercel%20%7C%20Netlify%20%7C%20cPanel-000000?style=for-the-badge" />
 </p>
 
-</br></br>
+</br>
 
 <p align="center">
   <em>“I’m not just learning to code — I’m learning to <b>build things that make ideas real</b>.”</em>
