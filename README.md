@@ -1,3 +1,25 @@
+## 👋 Hey, I'm Supun Kalhara Jayasinghe
+
+I’m someone who loves **building ideas** more than just writing code.  
+While I’m still learning deeply about coding, I have a **strong grasp of project models and technologies** — enough to bring concepts to life and make things work.  
+I’m especially skilled in **prompt engineering**, creative problem-solving, and experimenting with **new technologies** to test my own ideas.
+
+---
+
+### 🧩 About Me
+
+<div align="center">
+
+| 💡 | **Explorer of Ideas, Not Just Code**<br>I don’t have deep coding expertise yet, but I understand how technologies, tools, and project models connect to create working systems. |
+|:--:|:--|
+| 🧠 | **Prompt Engineer at Heart**<br>I have strong prompt engineering skills and love using AI to design solutions, automate tasks, and bring creativity into my projects. |
+| ⚙️ | **Curious Tech Experimenter**<br>I constantly explore how to combine new technologies to test my own ideas — especially in web development and automation. |
+| 🎨 | **Creative Multi-Skill Builder**<br>I’m experienced with <b>WordPress</b> and learning <b>Next.js</b> & <b>MERN</b>. I also bring skills in <b>video editing</b> and <b>graphic design</b> to make every project shine. |
+
+</div>
+
+---
+
 ### 🌀 Language Universe
 
 <p align="center">
