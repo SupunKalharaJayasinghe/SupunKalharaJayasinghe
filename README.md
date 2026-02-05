@@ -1,13 +1,12 @@
 ## 👋 Hey, I'm Supun Kalhara Jayasinghe
 
-I’m someone who loves **building ideas** more than just writing code.  
-While I’m still learning deeply about coding, I have a **strong grasp of project models and technologies** — enough to bring concepts to life and make things work.  
-I’m especially skilled in **prompt engineering**, creative problem-solving, and experimenting with **new technologies** to test my own ideas.
+I'm someone who loves **building ideas** more than just writing code.  
+While I'm still learning deeply about coding, I have a **strong grasp of project models and technologies** — enough to bring concepts to life and make things work.  
+I'm especially skilled in **prompt engineering**, creative problem-solving, and experimenting with **new technologies** to test my own ideas.
 
 ---
 
-</br>
-
+<br>
 
 ### 🌀 Language Universe
 
@@ -21,7 +20,7 @@ I’m especially skilled in **prompt engineering**, creative problem-solving, an
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SupunKalharaJayasinghe&theme=github_dark&utcOffset=5.5" />
 </p>
 
-</br>
+<br>
 
 ### 🧬 Skill DNA
 
@@ -42,7 +41,7 @@ I’m especially skilled in **prompt engineering**, creative problem-solving, an
   <!-- Frameworks / Libraries -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -64,21 +63,21 @@ I’m especially skilled in **prompt engineering**, creative problem-solving, an
 </p>
 
 <p align="center">
-  <!-- 🧠 Non-icon skills -->
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-12100E?style=for-the-badge&logo=openai&logoColor=white" />
+  <!-- 🧠 Additional Skills -->
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Hosting-Vercel%20%7C%20Netlify%20%7C%20cPanel-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 </p>
 
-</br></br>
+<br><br>
 
 <p align="center">
-  <em>“I’m not just learning to code — I’m learning to <b>build things that make ideas real</b>.”</em>
+  <em>"I'm not just learning to code — I'm learning to <b>build things that make ideas real</b>."</em>
 </p>
 
 ---
 
 <p align="center">
-  <b>🛠️ Crafted with ❤️ by <a href="#">Supun Kalhara Jayasinghe</a></b><br/>
+  <b>🛠️ Crafted with ❤️ by <a href="https://github.com/SupunKalharaJayasinghe">Supun Kalhara Jayasinghe</a></b><br>
   <sub>✨ Powered by creativity, curiosity, and caffeine ☕</sub>
 </p>
